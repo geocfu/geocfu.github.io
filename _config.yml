@@ -47,49 +47,17 @@ social_media:
   # youtube: your_username
 
 topics:
-  - name: Java
-    web_url: https://github.com/topics/java
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png
-
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png
 
-  - name: PHP
-    web_url: https://github.com/topics/php
-    image_url: https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png
-
-  - name: GO
-    web_url: https://github.com/topics/go
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png      
-
-  - name: Flutter
-    web_url: https://github.com/topics/flutter
-    image_url: https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png     
-
   - name: React Native
     web_url: https://github.com/topics/react-native
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png
-
-  - name: Bootstrap
-    web_url: https://github.com/topics/bootstrap
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png
-
-  - name: Amazon Web Services
-    web_url: https://github.com/topics/aws
-    image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
-    
-  - name: Server
-    web_url: https://github.com/topics/server
-    
+        
   - name: Serverless
     web_url: https://github.com/topics/serverless
         
   - name: Linux
     web_url: https://github.com/topics/linux
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
-
-  - name: Docker
-    web_url: https://github.com/topics/docker
-    image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png     
-
